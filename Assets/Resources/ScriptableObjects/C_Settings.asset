@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fbb15eaaa1bff04daafa07eabb38912, type: 3}
+  m_Name: C_Settings
+  m_EditorClassIdentifier: 
+  isMobileController: 1
+  targetFrameRate: 60
+  SkidmarksManager: {fileID: 553489279807139852, guid: 4ee9b862c2ae8624f8d12711f283e12d,
+    type: 3}
+  collisionParticles: {fileID: 8190229479809686132, guid: 25e98cba3424ecb4a81d249f07144451,
+    type: 3}
+  speedingParticles: {fileID: 1826635208212087078, guid: 8d072b47f3e6cdb4ca9944fc37310b9a,
+    type: 3}
+  wheelParticles: {fileID: 1088255853978532, guid: 20c5686250af34e43a5c921578c25b8c,
+    type: 3}
+  boostParticles: {fileID: 100004, guid: d8c41be67f41aa545ae053b0b927f821, type: 3}
+  engineClip: {fileID: 8300000, guid: 5ccecbe20f822d74a8904565b680d0e8, type: 3}
+  engineStartClip: {fileID: 8300000, guid: adbf88443e5dd46448924356b8ee4f56, type: 3}
+  boostClip: {fileID: 8300000, guid: 9816b3e4ba60c70488f8feeacaef1ab5, type: 3}
+  wheelSkidClip: {fileID: 8300000, guid: 975013e0496f22c4596f957db255dcfb, type: 3}
+  windClip: {fileID: 8300000, guid: ee114177f344bf54fb56b0390390ddd6, type: 3}
+  crashClip:
+  - {fileID: 8300000, guid: 23fdb370dd4bd324297bd2aa2502223b, type: 3}
+  - {fileID: 8300000, guid: f9d6c05ad5bb10343a4d2235646e7312, type: 3}
+  - {fileID: 8300000, guid: 132737112a16b3e4d960b21c102d0c98, type: 3}
+  - {fileID: 8300000, guid: 9c7cca7a5d8a668479a6c87595a5c87d, type: 3}
+  purchaseClip: {fileID: 8300000, guid: ab28366d77e86ce46b1aa04ce2a98d54, type: 3}
+  countingPointsAudioClip: {fileID: 8300000, guid: 0dd877b3f0448334b9b8ddf677b4fbde,
+    type: 3}
+  labelSlideAudioClip: {fileID: 8300000, guid: d1871d38208cc854e88cc6d5890159f5, type: 3}
+  playerTag: Player
+  playerLayer: PlayerVehicle
+  obstacleLayer: Obstacle
+  wheelColliderLayer: WheelCollider
