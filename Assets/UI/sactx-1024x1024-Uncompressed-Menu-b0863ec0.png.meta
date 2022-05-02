@@ -78,6 +78,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -86,12 +87,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -1821,6 +1822,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_17: 4074845526137412491
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_8: 2704612051224967370
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_7: 1339010758417442726
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_2: -8816989843506800571
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_6: 8120842192434135233
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_3: 2486893290841767336
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_15: 1763124817294687933
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_11: 5391977982574514321
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_12: -5274618825296595758
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_4: -7546124669200545688
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_9: 7165600082595923928
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_1: 1210090319025717282
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_14: -8791749613682961917
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_10: 6528556681051342094
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_13: 3648208012199830757
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_16: 1057371577375451401
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_5: 7721646580230201718
+      sactx-1024x1024-Uncompressed-Menu-b0863ec0_0: 3884470460714492432
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
