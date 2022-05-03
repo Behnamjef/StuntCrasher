@@ -932,7 +932,7 @@ public class C_CarController : MonoBehaviour{
 			newCOM.transform.SetParent (transform, false);
 			newCOM.transform.localPosition = Vector3.zero;
 			newCOM.transform.localRotation = Quaternion.identity;
-			newCOM.transform.localScale = Vector3.one;
+			// newCOM.transform.localScale = Vector3.one;
 			COM = newCOM.transform;
 
 		} else {

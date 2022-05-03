@@ -15,13 +15,19 @@ MonoBehaviour:
   vehicles:
   - carController: {fileID: 9117040502207232042, guid: b532df6feb686074f8fa14a319f20ee7,
       type: 3}
-    price: 50000
+    price: 0
   - carController: {fileID: 3940399581586746993, guid: 69bb7eb311639044ea0d4aba874bf428,
       type: 3}
-    price: 25000
+    price: 0
   - carController: {fileID: 5368516213737060310, guid: 9a9a884f0c0032e41af71614ce9febfb,
       type: 3}
-    price: 5000
+    price: 0
   - carController: {fileID: 3134246201222136931, guid: 784e00175d5195a498db7d14ee5db06d,
+      type: 3}
+    price: 0
+  - carController: {fileID: 6323991755054130190, guid: 4e37965c257534c3384705fe23758b9a,
+      type: 3}
+    price: 0
+  - carController: {fileID: 8150625764980020088, guid: 7dd982ad45ee24af18d26427e8a481de,
       type: 3}
     price: 0
